@@ -58,9 +58,6 @@ int main()
 
     cout<<dsu_find(2);
 
-
-
-
-
+    
     return 0;
 }
